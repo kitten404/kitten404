@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-My name is Quezia, i love everything about technology it fascinates me since i was a teenager... 
+My name is Quezia, i love everything about technology,
+it fascinates me since i was a teenager... 
+
 Here i am gonna show you the CODE </> ^.^
 
 🔭 I’m currently working on Donus Banking
