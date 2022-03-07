@@ -10,8 +10,7 @@ Here i am gonna show you the CODE </> ^.^
 
 💬 Ask me about Java, Kotlin
 
-😄 Pronouns: She/Her
-⚡ Fun fact: I love cats, thats why my nickname is Kitten, in fact i have a ten year old cat... also love Doja Cat --> Code with Doja --> https://dojacode.com/
+😄 Pronouns: She/Her                                                                                                                                                             ⚡ Fun fact: I love cats, thats why my nickname is Kitten, in fact i have a ten year old cat... also love Doja Cat --> Code with Doja --> https://dojacode.com/
 <!--
 **kitten404/kitten404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
