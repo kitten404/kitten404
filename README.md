@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Quezia, i love everything about technology it fascinates me since i was a teenager... 
+Here i am gonna show you the CODE </> ^.^
+
+🔭 I’m currently working on Donus Banking
+🌱 I’m currently learning Java, Kafka, Kotlin, React
+
+💬 Ask me about Java, Kotlin
+
+😄 Pronouns: She/Her
+⚡ Fun fact: I love cats, thats why my nickname is Kitten, in fact i have a ten year old cat... also love Doja Cat --> Code with Doja --> https://dojacode.com/
 <!--
 **kitten404/kitten404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
