@@ -5,7 +5,7 @@ it fascinates me since i was a teenager...
 
 Here i am gonna show you the CODE </> ^.^
 
-🔭 I’m currently working on Donus Banking
+🔭 I’m currently working at Donus Banking
 🌱 I’m currently learning Java, Kafka, Kotlin, React
 
 💬 Ask me about Java, Kotlin
