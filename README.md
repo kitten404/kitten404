@@ -10,7 +10,9 @@ Here i am gonna show you the CODE </> ^.^
 
 💬 Ask me about Java, Kotlin
 
-😄 Pronouns: She/Her                                                                                                                                                             ⚡ Fun fact: I love cats, thats why my nickname is Kitten...
+😄 Pronouns: She/Her
+</br>
+⚡ Fun fact: I love cats, thats why my nickname is Kitten...
 <!--
 **kitten404/kitten404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
