@@ -2,10 +2,8 @@
 
 # 🚀 Welcome to the Awesome World of [Quezia]'s Full Stack Magic! 🌟
 
-## Meet [Quezia] 😎
-Olá! 👋 I'm [Quezia], your go-to Brazilian full-stack wizard 🧙‍♂️ with a passion for technology, an insatiable curiosity, and a heart full of love for cats! 🐾
-
-![Quezia Abrahão](![IMG_20221128_201232](https://github.com/kitten404/kitten404/assets/31549957/b29db639-80ea-4442-adcf-ca22fde7ea76))
+## Meet Quezia 😎
+Olá! 👋 I'm Quezia, your go-to Brazilian full-stack wizard 🧙‍♂️ with a passion for technology, an insatiable curiosity, and a heart full of love for cats! 🐾
 
 ## 🌐 About Me
 I'm not just your ordinary software engineer; I'm a tech enthusiast on a mission to create digital wonders. Whether it's crafting beautiful front-end interfaces or optimizing the back-end for efficiency, I thrive on turning complex challenges into elegant solutions.
@@ -27,8 +25,8 @@ Here's a glimpse of my tech toolbox:
 ## 🐱 Cat Lover Extraordinaire
 When I'm not immersed in code, you'll find me cuddling with my feline friends. Cats aren't just pets; they're my coding companions, providing inspiration and the occasional distraction (in the most adorable way, of course!).
 
-![Cats](![CYMERA_20181108_134753](https://github.com/kitten404/kitten404/assets/31549957/c04a95d8-9a6a-4e58-903b-67f718fc5df9)
-)
+![CYMERA_20181108_134753](https://github.com/kitten404/kitten404/assets/31549957/9cd917b8-9638-4197-8b63-ee7bac07e86a)
+
 
 ## 🤝 Let's Collaborate!
 Whether you're looking to build a stunning website, optimize your database, or just chat about the latest tech trends, I'm here for it! Let's create something amazing together and embark on a journey of innovation and creativity.
