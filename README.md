@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-# 🚀 Welcome to the Awesome World of [Your Name]'s Full Stack Magic! 🌟
+# 🚀 Welcome to the Awesome World of [Quezia]'s Full Stack Magic! 🌟
 
-## Meet [Your Name] 😎
-Olá! 👋 I'm [Your Name], your go-to Brazilian full-stack wizard 🧙‍♂️ with a passion for technology, an insatiable curiosity, and a heart full of love for cats! 🐾
+## Meet [Quezia] 😎
+Olá! 👋 I'm [Quezia], your go-to Brazilian full-stack wizard 🧙‍♂️ with a passion for technology, an insatiable curiosity, and a heart full of love for cats! 🐾
 
 ![Quezia Abrahão](![IMG_20221128_201232](https://github.com/kitten404/kitten404/assets/31549957/b29db639-80ea-4442-adcf-ca22fde7ea76))
 
