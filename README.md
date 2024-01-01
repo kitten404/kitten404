@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# 🚀 Welcome to the Awesome World of [Quezia]'s Full Stack Magic! 🌟
+# 🚀 Welcome to the Awesome World of Quezia's Full Stack Magic! 🌟
 
 ## Meet Quezia 😎
 Olá! 👋 I'm Quezia, your go-to Brazilian full-stack wizard 🧙‍♂️ with a passion for technology, an insatiable curiosity, and a heart full of love for cats! 🐾
